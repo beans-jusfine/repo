@@ -1,0 +1,19 @@
+Package: xyz.cypwn.powercuff
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
+Filename: debs/xyz.cypwn.powercuff_1.0.1_iphoneos-arm64.deb
+Size: 13976
+MD5sum: 7a8e376b4e467388bca9c8fd00bc864f
+SHA1: 964f2819ae5f09c8d611803c562bc7e7bf36d07e
+SHA256: 179003cb3a7391f70be976609cd51a59de16f11d51ded14972980753dc4f52d0
+Section: Tweaks
+Description: Select from additional low power device states.
+Author: Ryan Petrich
+Depiction: https://repo.cypwn.xyz/depiction/2837
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/powercuff.png
+Name: Powercuff
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2837
+

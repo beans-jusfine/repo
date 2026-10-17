@@ -6,7 +6,10 @@ Codename: repo
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Personal Sileo APT repository
+Date: Sat, 17 Oct 2026 16:48:28 +0000
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 Packages
+ 47f94a2d46425a2707c9460b603ad3fb 772 Packages
+ ce430d6dbb5fc357922e157697e4de89 479 Packages.gz
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Packages
+ dae2d16810a63fe5bbda42d3e26f6478fd88451205d333784a35623ad56570d6 772 Packages
+ b0ce428bc509f7cde5b7dce4971965908f176204a87649b1ac5ce5dbbcf2ca2b 479 Packages.gz
